@@ -1,2 +1,2 @@
 # fbposter
-auto group poster
+Facebook gruplarda toplu paylaşım
