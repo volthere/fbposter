@@ -1,0 +1,2 @@
+# fbposter
+auto group poster
